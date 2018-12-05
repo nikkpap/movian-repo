@@ -98,6 +98,20 @@
       "title": "Transmission",
       "version": "0.0.1"
     }
+    {
+      "author": "nikkpap",
+      "category": "glwosk",
+      "description": "<p>Not working! Need a release, ask the developer to release a zip on github.</p><p>showtime-plugin-transmission is a Movian plugin allowing user to manipulate downloads in Transmission program.</p><p>Transmission must be configured to enable RCP connections.</p> For more information visit <a href=\"http://www.transmissionbt.com/\">http://www.transmissionbt.com/</a>",
+      "downloadURL": "https://github.com/nikkpap/oskGR-ENG/releases/download/v1.0.1/oskGR-ENG.zip",
+      "homepage": "https://github.com/nikkpap/oskGR-ENG",
+      "icon": "https://raw.githubusercontent.com/nikkpap/oskGR-ENG/master/logo.png",
+      "id": "oskGR-ENG",
+      "popularity": 1,
+      "showtimeVersion": ""5.0.0",
+      "synopsis": " oskGR-ENG Just an OSK for Movian Media Center with Greek and English full qwerty...",
+      "title": "oskGR-ENG",
+      "version": "1.0.1"
+    }
   ],
   "version": 1
 }
